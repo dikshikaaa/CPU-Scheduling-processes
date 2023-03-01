@@ -14,4 +14,6 @@ CPU scheduling is the process of selecting the next process to be executed on th
  
  5. Priority Preemtive
  
+ 6. Round Robin
+ 
 This repo is a collection of these alogorithms written in C language
